@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/molant/chai-htmlhint#readme",
   "dependencies": {
-    "lodash": "^4.11.1",
-    "request": "^2.71.0"
+    "lodash": "^4.11.1"
   }
 }

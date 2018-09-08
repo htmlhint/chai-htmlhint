@@ -1,4 +1,7 @@
 # What is chai-htmlhint
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/htmlhint/chai-htmlhint.svg)](https://greenkeeper.io/)
+
 chai-htmlhint is a wrapper of [htmlhint](https://github.com/yaniswang/HTMLHint/) to use with chai.
 
 # How to use it

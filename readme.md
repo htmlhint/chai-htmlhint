@@ -66,4 +66,6 @@ If you want to override you just need a valid `.htmlhintrc` file in the root of 
 
 Project initially created by [@molant](https://github.com/molant) and transferred to the [HTMLHint](https://github.com/htmlhint) organization.
 
+<a href="https://htmlhint.io"><img src="https://raw.githubusercontent.com/htmlhint/htmlhint/develop/src/img/htmlhint.png" alt="Logo HTMLHint" width="65"></a>
+
 [MIT License](./LICENSE)
